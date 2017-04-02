@@ -1,0 +1,46 @@
+{
+  "departments": [
+    {
+      "name": "IT",
+      "id": 1
+    },
+    {
+      "name": "Sales",
+      "id": 2
+    },
+    {
+      "name": "Press",
+      "id": 3
+    },
+    {
+      "name": "Communications",
+      "id": 4
+    }
+  ],
+  "employees": [
+    {
+      "first_name": "John",
+      "last_name": "Smith",
+      "department_id": 4,
+      "id": 1
+    },
+    {
+      "first_name": "Maria",
+      "last_name": "Sanch",
+      "department_id": 2,
+      "id": 2
+    },
+    {
+      "first_name": "Hurry",
+      "last_name": "Burg",
+      "department_id": 3,
+      "id": 4
+    },
+    {
+      "first_name": "David",
+      "last_name": "Jone",
+      "department_id": 1,
+      "id": 5
+    }
+  ]
+}
